@@ -1,0 +1,5 @@
+,SMILES1,SMILES2,SMILES3,composition1,composition2,composition3
+1,[*]OCCOc1ccc(C2(c3c(c4c2cccc4)cccc3)c5ccc(OCCO[*])cc5)cc1,CC(c1ccc(O[*])cc1)(c2ccc(O[*])cc2)C,[*]Oc1ccc(O[*])cc1,0.35,0.05,0.1
+2,[*]OCCOc1ccc(C2(c3c(c4c2cccc4)cccc3)c5ccc(OCCO[*])cc5)cc1,CC(c1ccc(O[*])cc1)(c2ccc(O[*])cc2)C,[*]Oc1ccc(O[*])cc1,0.1,0.05,0.35
+3,[*]OCCOc1ccc(C2(c3c(c4c2cccc4)cccc3)c5ccc(OCCO[*])cc5)cc1,[*]Oc1ccc(c2ccc(O[*])cc2)cc1,,0.45,0.05,0
+4,[*]OCCOc1ccc(C2(c3c(c4c2cccc4)cccc3)c5ccc(OCCO[*])cc5)cc1,[*]Oc1ccc(c2ccc(O[*])cc2)cc1,CC(c1ccc(O[*])cc1)(c2ccc(O[*])cc2)C,0.4,0.05,0.05
